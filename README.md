@@ -1,3 +1,6 @@
 *Unofficial* texture pack for cherrypr
 
-Drop this into your resource packs folder and select it to use it in game
+INSTRUCTIONS:
+
+Extract the zip file
+Take the main resource pack zip file out into your minecraft resource packs folder to use it in game
